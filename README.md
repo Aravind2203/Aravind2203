@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I am Aravind Swaminathan</h1>
 <h3 align="center">A passionate Backend developer </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aravind2203" alt="Aravind2203" /></a> </p>
+
 
 - 🔭 I’m currently working on **Django**
 
@@ -24,3 +24,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravind2203&" alt="ndrohith09" /></p>
 
 ![Aravind Swaminathan's github stats](https://github-readme-stats.vercel.app/api?username=Aravind2203&show_icons=true&&title_color=red&icon_color=FF233B&text_color=FFFFFF&theme=dark) <br>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aravind2203" alt="Aravind2203" /></a> </p>
