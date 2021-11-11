@@ -10,6 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Aravind2203](https://github.com/Aravind2203)
 
 - 📫 How to reach me **aravindofficial2203@gmail.com**
+- 📫 My LinkedIn [Aravind Swaminathan](https://www.linkedin.com/in/aravind-swaminathan-3756a21bb/)
 
 
 <h3 align="left">Languages and Tools:</h3>
