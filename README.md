@@ -24,7 +24,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aravind2203&show_icons=true&locale=en&layout=compact" alt="Aravind2203" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravind2203&" alt="ndrohith09" /></p>
 
 ![Aravind Swaminathan's github stats](https://github-readme-stats.vercel.app/api?username=Aravind2203&show_icons=true&&title_color=red&icon_color=FF233B&text_color=FFFFFF&theme=dark) <br>
 
