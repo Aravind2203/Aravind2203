@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer </h3>
 
 
-<img src="https://media-exp2.licdn.com/dms/image/C5616AQGzGI-NwJLv3Q/profile-displaybackgroundimage-shrink_350_1400/0/1619152235036?e=1660780800&v=beta&t=MRgQIcNTPgjfqOCcUQYe-Xf_uWb_5nUbPCEdet7JvoI" align="center" />
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQGzGI-NwJLv3Q/profile-displaybackgroundimage-shrink_350_1400/0/1619152235036?e=1672876800&v=beta&t=FU9XxrhCmZaz-gfi5BZ737WMIsx-S7Bad2KPTGTkB-c" align="center" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aravind2203&label=Profile%20views&color=0e75b6&style=flat" alt="aravind2203" /> </p>
 
