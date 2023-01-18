@@ -11,9 +11,7 @@
   <a href="https://revanth2002.github.io/ndrevanth09/">
     <img src="https://img.shields.io/badge/Portfolio-purple?logo=pandora&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
   </a>  
-  <a href="aravindofficial2203@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
-  </a>
+
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aravind2203&label=Profile%20views&color=0e75b6&style=flat" alt="aravind2203" /> </p>
