@@ -4,6 +4,18 @@
 
 <img src="https://media.licdn.com/dms/image/C5616AQGzGI-NwJLv3Q/profile-displaybackgroundimage-shrink_350_1400/0/1619152235036?e=1678924800&v=beta&t=uKPylOVa6iN78wjcCb1V2seWBBcL0AkzXJt3JcGviOs" align="center" />
 
+<div id="badges" align='center'>
+  <a href="https://www.linkedin.com/in/aravind--swaminathan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://revanth2002.github.io/ndrevanth09/">
+    <img src="https://img.shields.io/badge/Portfolio-purple?logo=pandora&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
+  </a>  
+  <a href="aravindofficial2203@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aravind2203&label=Profile%20views&color=0e75b6&style=flat" alt="aravind2203" /> </p>
 
 - 🔭 I’m currently working on **Django**
