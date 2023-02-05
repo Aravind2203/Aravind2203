@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aravind2203](https://github.com/Aravind2203)
 
