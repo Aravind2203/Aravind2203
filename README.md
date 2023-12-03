@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer </h3>
 
 
-<img src="https://media.licdn.com/dms/image/C5616AQGzGI-NwJLv3Q/profile-displaybackgroundimage-shrink_350_1400/0/1619152235036?e=1693440000&v=beta&t=FI7CW8NU2cUtxBLJjZnU2oJGZPA5D4r0LDfTV2nX_ek" align="center" />
+<img src="https://media.licdn.com/dms/image/D5616AQEXs0GPKwbbwA/profile-displaybackgroundimage-shrink_350_1400/0/1701583581133?e=1707350400&v=beta&t=u4wrankn-9Go2xWG3ilIwD5nNSRIwG9g4UXplwcc1Hw" align="center" />
 
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/aravind--swaminathan/">
